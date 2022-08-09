@@ -1,0 +1,24 @@
+[
+  {
+    "Source": "com.swn.basket.checkoutbasket",
+    "Detail": "{ \"userName\": \"swn\", \"basket\": \"Iphone X\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "CheckoutBasket",
+    "EventBusName":"SwnEventBus"
+  },
+  {
+    "Source": "com.swn.basket.checkoutbasket",
+    "Detail": "{ \"userName\": \"swn\", \"basket\": \"iPhone XI\" }",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "CheckoutBasket",
+    "EventBusName":"SwnEventBus"
+   }
+]
+
+ 
